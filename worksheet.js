@@ -1,5 +1,8 @@
 import {isIntInRange, checkIfEmptyStr} from './functions.js';
 
+
+///////////// THIS PROJECT MUST BE RAN IN A LIVE SERVER TO PROPERLY IMPORT FUNCTIONS FROM functions.js ////////////////
+
 "use strict";
 
 /*
